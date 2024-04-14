@@ -134,7 +134,7 @@ class _LatianFeedState extends State<LatianFeed> {
     return Scaffold(
       backgroundColor: Colors.white70,
       appBar: AppBar(
-        title: Text("ADD DATA LOMBA"),
+        title: Text("ADD DATA PROGRAM"),
         backgroundColor: Colors.red,
       ),
       body: _isLoading
